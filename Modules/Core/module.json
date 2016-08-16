@@ -1,0 +1,11 @@
+{
+    "name": "lakulo/core",
+    "alias": "core",
+    "type": "module",
+    "active": 1,
+    "description": "Lakulo Core Module",
+    "bootstrap" : {
+        "className": "Modules\\Core\\Module",
+        "path": "Module.php"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "lakulo/blog",
+    "alias": "blog",
+    "type": "module",
+    "active": 0,
+    "description": "Lakulo Blog Module",
+    "bootstrap" : {
+        "className": "Modules\\Blog\\Module",
+        "path": "Module.php"
+    }
+}

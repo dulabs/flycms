@@ -1,0 +1,11 @@
+{
+    "name": "lakulo/catalog",
+    "alias": "catalog",
+    "type": "module",
+    "active": 1,
+    "description": "Lakulo Catalog Module",
+    "bootstrap" : {
+        "className": "Modules\\Catalog\\Module",
+        "path": "Module.php"
+    }
+}
